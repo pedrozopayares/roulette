@@ -1,6 +1,6 @@
 # Roulette
 
-Roulette es un juego de ruleta que consiste en generar un número aleatorio para seleccionar un ganador de un listado que se ha cargado previamente.
+Roulette es un juego de **ruleta** o **win wheel** que consiste en generar un número aleatorio para seleccionar un ganador de un listado que se ha cargado previamente.
 
 ## Requirimientos
 
